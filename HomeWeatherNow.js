@@ -2,7 +2,7 @@
 // These must be at the very top of the file. Do not edit.
 // icon-color: cyan; icon-glyph: magic;
 const {transparent} = importModule("Transparent");
-let bgImage = await transparent("ui");
+let bgImage = await transparent("HWN");
 
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
