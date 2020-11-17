@@ -15,7 +15,7 @@ let bgImage = await transparent("ui");
 // WEATHER API PARAMETERS !important
 // API KEY, you need an Open Weather API Key
 // You can get one for free at: https://home.openweathermap.org/api_keys (account needed).
-const API_KEY = "b36b258dad73b10f00dcc79f99525378"
+const API_KEY = ""
 
 // Latitude and Longitude of the location where you get the weather of.
 // You can get those from the Open Weather website while searching for a city, etc.
@@ -31,8 +31,8 @@ try {
   latLong = await Location.current();
 } catch {}
 
-const LAT = 35.758860
-const LON = 51.457298
+const LAT =
+const LON =
 
 
 // Looking settings
