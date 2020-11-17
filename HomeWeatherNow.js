@@ -1,8 +1,11 @@
 // Variables used by Scriptable.
 // These must be at the very top of the file. Do not edit.
 // icon-color: cyan; icon-glyph: magic;
+
+// Transparent
 const {transparent} = importModule("Transparent");
 let bgImage = await transparent("HWN");
+
 // Widget Params
 // Don't edit this, those are default values for debugging (location for Cupertino).
 // You need to give your locations parameters through the widget params, more info below.
