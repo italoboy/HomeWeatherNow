@@ -12,7 +12,7 @@ Don't change anything in Transparent Script.
 
 Guideance: Put your API code from openweathermap.org, also put your location info (Lat, Lot).
 
-Widget Workable Size: Small, Large, Medium.
+Workable Widget Size: Small, Large, Medium.
 
 
 
