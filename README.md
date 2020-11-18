@@ -1,7 +1,7 @@
 #HomeWeatherNow
 
 <p align="center" >
-    <img width="500" alt="HomeWeatherNow" src ="./2AEC9CBD-C8BE-40BE-AB6D-2CF728A088A0.png">
+    <img width="500" alt="HomeWeatherNow" src ="./4AC78D79-07D1-46EB-952F-B64E52FD1F58.jpeg">
 </p>
 
 A simple small widget for weather, date, location with transparent background.
